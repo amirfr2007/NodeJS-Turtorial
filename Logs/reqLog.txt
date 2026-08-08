@@ -1,0 +1,10 @@
+2026/08/06  16:19:12   6b3fbd18-1565-4b2e-bb51-d44d27009903   /views/new-page.html	GET
+2026/08/06  16:19:12   7305b5b4-e744-4a26-b463-0bc3bc68b69d   /css/style.css	GET
+2026/08/06  16:19:12   a8c98a34-ffcf-4d84-9e12-0fe1cedcc1a3   /img/img1.png	GET
+2026/08/06  16:20:36   7e9d7a8c-1487-41d2-8364-662e8a456192   /views/new-page.html	GET
+2026/08/06  16:20:47   22892b0f-8a38-494c-ab53-039bfeff4a2d   /views/new-page.html	GET
+2026/08/06  16:20:47   3335b52e-e8dd-4506-a635-6c6ab0503387   /css/style.css	GET
+2026/08/06  16:20:47   c8b156ca-3035-4523-8f75-83b15135c6d4   /img/img1.png	GET
+2026/08/06  16:23:07   9cf4d439-76db-45f1-b6d0-85dd299ab1fc   /views/new-page.html	GET
+2026/08/06  16:23:07   12be010a-7b9e-4afc-8c20-1ac9c9db4fe6   /css/style.css	GET
+2026/08/06  16:23:07   0c485611-22a6-4803-8007-2463a578a81c   /img/img1.png	GET
