@@ -7,8 +7,13 @@
 body {
   font-size: 36px;
   min-height: 100vh;
-  color: #fff;
-  background-color: #000000;
+  color: #000000;
+  background-color: rgb(92, 88, 88);
   display: grid;
   place-content: center;
+}
+
+.my-class {
+  color: rgb(0, 0, 0);
+  text-align: center;
 }
